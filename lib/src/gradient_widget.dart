@@ -93,7 +93,7 @@ class GradientButtonState extends State<GradientButton> with SingleTickerProvide
 
   @override
   Widget build(BuildContext context) {
-    print('_opacity.value: ${_opacity.value}');
+    //print('_opacity.value: ${_opacity.value}');
 
     final ThemeData theme = Theme.of(context);
 
